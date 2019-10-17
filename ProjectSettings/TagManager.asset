@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - killbox
+  - LifeIcon
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Player
+  - 
+  - 
+  - StaticObjectLayer
+  - BackgroundLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackgroundSortingLayer
+    uniqueID: 2143586161
+    locked: 0
+  - name: Foreground
+    uniqueID: 4264650309
+    locked: 0
+  - name: PlayerLayer
+    uniqueID: 886834825
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

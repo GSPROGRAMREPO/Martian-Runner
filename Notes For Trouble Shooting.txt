@@ -1,0 +1,2 @@
+If weird behavoir on the side of tiles or under check Unity Endless Runner Tutorial #4 9 mins in.
+	Possible Fix by adding friction to it "Slippy"
